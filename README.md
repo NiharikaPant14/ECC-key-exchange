@@ -4,7 +4,7 @@
 
 This project implements an **Elliptic Curve Cryptography (ECC)** based **key exchange protocol** (Elliptic Curve Diffie-Hellman, ECDH) from scratch, with an emphasis on **performance** and **security** considerations. The goal of this project is to simulate the key exchange process between two parties (Alice and Bob), comparing the performance and security across multiple ECC curves (Curve25519 and secp256r1). Additionally, the project demonstrates the use of the shared secret for **symmetric encryption** and simulates a **Man-in-the-Middle (MITM) attack** to showcase the importance of **authenticated key exchange**.
 
-🚧 **Project in Progress**: This is an ongoing project for our **Bachelor's Thesis Project (BTP)** at college, being developed by **[Niharika Pant](https://github.com/NiharikaPant14/NiharikaPant14)** and **[Sneha Pal](https://github.com/Snehapal0709)**.
+🚧 **Project in Progress**: This project is for our **Bachelor's Thesis Project (BTP)** at college, being developed by **[Niharika Pant](https://github.com/NiharikaPant14/NiharikaPant14)** and **[Sneha Pal](https://github.com/Snehapal0709)**.
 
 ## **🔑 Key Features**
 - **ECC Key Exchange Implementation**: Implemented from scratch using modular arithmetic and elliptic curve operations.
@@ -43,5 +43,5 @@ This project implements an **Elliptic Curve Cryptography (ECC)** based **key exc
 ## **📂 Project Structure**
 
 - `ecc_key_exchange.ipynb`: The main Jupyter notebook with code for ECC operations, key exchange, and simulations.
-- `performance_benchmarks/`: Folder containing benchmark results and plots.
+- `ECDH_Notes`: My personal notes explaining what is ECDH and all components implemented in this project.
 - `README.md`: Project description and instructions.
