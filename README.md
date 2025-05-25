@@ -4,7 +4,7 @@
 
 This project implements an **Elliptic Curve Cryptography (ECC)** based **key exchange protocol** (Elliptic Curve Diffie-Hellman, ECDH) from scratch, with an emphasis on **performance** and **security** considerations. The goal of this project is to simulate the key exchange process between two parties (Alice and Bob), comparing the performance and security across multiple ECC curves (Curve25519, secp256r1 and brainpool256r1). Additionally, the project demonstrates the use of the shared secret for **symmetric encryption** and simulates a **Man-in-the-Middle (MITM) attack** to showcase the importance of **authenticated key exchange**.
 
-🚧 **Project in Progress**: This project is for our **Bachelor's Thesis Project (BTP)** at college, being developed by **[Niharika Pant](https://github.com/NiharikaPant14/NiharikaPant14)** and **[Sneha Pal](https://github.com/Snehapal0709)**.
+This project is for our **Bachelor's Thesis Project (BTP)** at college, being developed by **[Niharika Pant](https://github.com/NiharikaPant14/NiharikaPant14)** and **[Sneha Pal](https://github.com/Snehapal0709)**.
 
 ## **🔑 Key Features**
 - **ECC Key Exchange Implementation**: Implemented from scratch using modular arithmetic and elliptic curve operations.
